@@ -11,6 +11,7 @@
   <modules>
     <module>code/routines</module>
     <module>jobs/process/pricelist_main_0.1</module>
+    <module>jobs/process/pricelist_subjob_0.1</module>
   </modules>
   <properties>
     <talend.project.name>LABS</talend.project.name>
